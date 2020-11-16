@@ -6,3 +6,6 @@
 - I ❤️ Python.
 - 🌐 You can find my academic work here: [ResearchGate](https://www.researchgate.net/profile/Francisco_Carrillo-Perez), [Google Scholar](https://scholar.google.com/citations?user=KqHbnTkAAAAJ&hl=en).
 - 🐦 Contact me through [twitter](https://twitter.com/pacocp9) or email(carrilloperezfrancisco@gmail.com, franciscocp@ugr.es)! 
+
+[![Paco's github stats](https://github-readme-stats.vercel.app/api?username=pacocp)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacocp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
