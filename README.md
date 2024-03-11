@@ -6,7 +6,7 @@
 
 ### Hi there, I'm [Paco!](https://pacocp.es) 👋.  
 
-- 🎓 PhD. in Machine Learning applied to bioinformatics. Nowadays, Postdoctoral Researcher (contractor) at Stanford University in the [Gevaert's Lab](https://med.stanford.edu/gevaertlab.html).
+- 🎓 PhD. in Machine Learning applied to bioinformatics. Nowadays, Postdoctoral Researcher at Stanford University in the [Gevaert's Lab](https://med.stanford.edu/gevaertlab.html).
 - 🎓 During 2021/2022 I was a Visiting Student Researcher at Stanford University with a Fulbright Scholarship under the supervision of Prof. [Olivier Gevaert](https://profiles.stanford.edu/olivier-gevaert).
 - 🧬 My main area of research is using machine learning techniques for biomedical data. Working on multi-scale and multi-omics analysis for cancer classification.
 - 💻 Before starting my Ph.D., I worked as a Data Scientist and Backend Engineer at an [e-Health startup](https://www.mdurance.eu/).
